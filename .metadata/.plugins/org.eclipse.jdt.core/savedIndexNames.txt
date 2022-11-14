@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\DoItProject\workspaec_Algorithm\.metadata\.plugins\org.eclipse.jdt.core
+4210302864.index
+1865797976.index
+2975814660.index
