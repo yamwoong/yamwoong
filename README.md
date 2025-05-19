@@ -38,9 +38,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamwoong&show_icons=true&theme=radical)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamwoong&layout=compact&theme=radical)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yamwoong&repo=your-repo-name&theme=radical)
 
 </div>
 
