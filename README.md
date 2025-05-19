@@ -1,4 +1,15 @@
-<div align=center> <h1>Dae Woong Kim</h1> </div>
+<div align=center> 
+  <h1>Dae Woong Kim</h1> 
+  <!-- Email -->
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+</div>
 
 <div align="center">
 
