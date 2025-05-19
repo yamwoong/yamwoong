@@ -3,7 +3,7 @@
   <!-- Email -->
 <!-- Email -->
 <a href="mailto:ukwoong@gmail.com">
-  <img src="https://img.shields.io/badge/Email: your.email@example.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/Email: ukwoong@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
 <!-- LinkedIn -->
