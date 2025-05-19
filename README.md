@@ -1,13 +1,14 @@
 <div align=center> 
   <h1>Dae Woong Kim</h1> 
   <!-- Email -->
-<a href="mailto:ukwoong@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<!-- Email -->
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email: your.email@example.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn: linkedin.com/in/yourprofile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
 
