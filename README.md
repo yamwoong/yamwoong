@@ -38,7 +38,7 @@
 
 <div align="center">
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yamwoong&repo=your-repo-name&theme=radical)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yamwoong&repo=auth-service-crud&theme=radical)
 
 </div>
 
