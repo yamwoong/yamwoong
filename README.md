@@ -7,8 +7,8 @@
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn: linkedin.com/in/yourprofile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<a href="www.linkedin.com/in/daewoong-kim-aa145a250" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn: www.linkedin.com/in/daewoong-kim-aa145a250?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
 
