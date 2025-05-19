@@ -63,10 +63,20 @@
 
 <div align="center">
 
+  <!-- GitHub Repo 카드 -->
   <a href="https://github.com/yamwoong/auth-service-crud" target="_blank">
     <img 
       src="https://github-readme-stats.vercel.app/api/pin/?username=yamwoong&repo=auth-service-crud&theme=radical" 
       alt="Repo Card"
+    />
+  </a>
+
+  <!-- 배포 링크 버튼 -->
+  <br />
+  <a href="http://13.53.162.140.nip.io:8080/login" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Live Demo-13.53.162.140.nip.io-1f72ff?style=flat-square&logo=vercel&logoColor=white" 
+      alt="Live Demo"
     />
   </a>
 
