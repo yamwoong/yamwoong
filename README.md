@@ -1,7 +1,7 @@
 <div align=center> 
   <h1>Dae Woong Kim</h1> 
   <!-- Email -->
-<a href="mailto:your.email@example.com">
+<a href="mailto:ukwoong@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
